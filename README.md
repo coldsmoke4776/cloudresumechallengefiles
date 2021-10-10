@@ -13,7 +13,7 @@ Step 9: API and Lambda from JS to DyDB (In progress! Needs the counter but Lambd
 Step 10: Python and boto3 (Interfacing with AWS services in Lambda via Python)(Done!),
 Step 11: Tests (NOT DONE),
 Step 12: Define the confgurations of AWS resources via a SAM template (NOT DONE),
-Step 13: GitHub Repository for backend work (NOT DONE),
+Step 13: GitHub Repository for frontend/backend work (DONE - Cloudresumefrontend and Cloudresumebackend),
 Step 14: CI/CD Backend (Use GitHub Actions to run tests when you push update to SAM template or Python code, 
 if pass > packaging and deployment to AWS)(NOT DONE),
 Step 15: CI/CD Frontend (Use GitHub Actions so when you push website code, the S3 bucket gets updated automatically)(NOT DONE),
