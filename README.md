@@ -1,5 +1,5 @@
 # cloudresumechallengefiles
-Files required to get through Forest Brazeal's Cloud Resume Challenge
+**Files required to get through Forest Brazeal's Cloud Resume Challenge**
 
 - Step 1: AWS certifications (Done!),
 - Step 2: HTML Copy of Resume (Done!),
