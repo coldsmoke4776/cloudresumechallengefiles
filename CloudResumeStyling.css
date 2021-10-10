@@ -1,0 +1,122 @@
+body {
+background-color:  #000000
+}
+
+h1 {
+background-color: MediumSeaGreen;
+color: white;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+font-size: 60px;
+}
+
+h2 {
+background-color: MediumSeaGreen;
+opacity: 0.8;
+color: white;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+font-size: 40px;
+}
+
+h3 {
+background-color:  #009900;
+opacity: 0.7;
+text-align: center;
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h4 {
+background-color:  #00b386;
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h5 {
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+font-weight: bold;
+}
+
+p {
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+li {
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+dd {
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+dt {
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+font-weight: bold;
+}
+
+.box1 {
+  width: 900px;
+  border: 10px solid red;
+  padding: 50px;
+  margin: 20px;
+}
+
+div.box1 h5 {
+    color: green;
+}
+
+
+div.box1 li {
+    color: red;
+}
+
+.box2 {
+  width: 900px;
+  border: 10px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+}
+
+div.box2 h5 {
+    color: yellow;
+}
+
+div.box2 li {
+    color: purple;
+}
+
+.box3 {
+  width: 900px;
+  border: 10px solid purple;
+  padding: 50px;
+  margin: 20px;
+}
+
+div.box3 h5 {
+    color: pink;
+}
+
+div.box3 li {
+    color: green;
+}
+
+.box4 {
+    width: 900px;
+    border: 10px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+div.box4 h5 {
+    color: purple;
+}
+
+div.box4 li {
+    color: pink;
+}
